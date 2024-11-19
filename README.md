@@ -13,7 +13,7 @@ Visualization: Use data visualization techniques to present findings, such as ba
 The analysis will provide actionable insights for menu optimization, pricing strategies, and improving customer satisfaction by understanding ordering behavior at Chipotle.
 
 
-https://github.com/slepankovamarta/the-git-rocks/blob/main/Images/car%20github.png
+![](https://github.com/slepankovamarta/the-git-rocks/blob/main/Images/car%20github.png)
 
 
 # Predicting City Population Based on Area [Population](https://github.com/slepankovamarta/the-git-rocks/blob/main/Population%20excercise%20GitHub.ipynb)
@@ -37,8 +37,8 @@ Model Evaluation:
 Assess model accuracy using metrics like R², RMSE, or MAE.
 Analyze discrepancies between actual and predicted values.
 
-https://github.com/slepankovamarta/the-git-rocks/blob/main/Images/chipotle%202.png
-https://github.com/slepankovamarta/the-git-rocks/blob/main/Images/chipotle.png
+![](https://github.com/slepankovamarta/the-git-rocks/blob/main/Images/chipotle%202.png)
+![](https://github.com/slepankovamarta/the-git-rocks/blob/main/Images/chipotle.png)
 
 
 # Classifying Car Dealerships with K-Nearest Neighbors (KNN) [KNN](https://github.com/slepankovamarta/the-git-rocks/blob/main/CarStore.ipynb)
