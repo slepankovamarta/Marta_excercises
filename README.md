@@ -1,7 +1,7 @@
 # Marta_excercises
 examples of the study content
 
-# H1 Project Description: Exploratory Data Analysis (EDA) on Chipotle Restaurant Orders
+# Exploratory Data Analysis (EDA) on Chipotle Restaurant Orders
 This project involves conducting Exploratory Data Analysis (EDA) on a dataset containing Chipotle restaurant order information. The dataset includes variables such as item name, order quantity, price per item, and total order value.
 
 Objectives:
