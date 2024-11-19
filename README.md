@@ -15,7 +15,7 @@ The analysis will provide actionable insights for menu optimization, pricing str
 
 
 
-# Predicting City Population Based on Area
+# Predicting City Population Based on Area [Population](https://github.com/slepankovamarta/the-git-rocks/blob/main/Population%20excercise%20GitHub.ipynb)
 This project focuses on creating a model to predict the population of a city based on its area. The input dataset contains information about cities, specifically their area (in km²) and population.
 
 Steps:
@@ -38,7 +38,7 @@ Analyze discrepancies between actual and predicted values.
 
 
 
-# Classifying Car Dealerships with K-Nearest Neighbors (KNN)
+# Classifying Car Dealerships with K-Nearest Neighbors (KNN) [KNN](https://github.com/slepankovamarta/the-git-rocks/blob/main/CarStore.ipynb)
 
 This exercise focuses on using the K-Nearest Neighbors (KNN) algorithm to classify two car dealerships based on their sales data. The dataset includes features such as the number of cars sold, customer demographics, and the dealership's location.
 
