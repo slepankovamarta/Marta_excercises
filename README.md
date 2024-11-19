@@ -1,7 +1,7 @@
 # Marta_excercises
 
 
-# (EDA) on Chipotle Restaurant Orders 	[EDA](https://github.com/slepankovamarta/the-git-rocks/blob/main/EDA%20Intro.ipynb)
+# [EDA n Chipotle Restaurant Orders](https://github.com/slepankovamarta/the-git-rocks/blob/main/EDA%20Intro.ipynb)
 This project involves conducting Exploratory Data Analysis (EDA) on a dataset containing Chipotle restaurant order information. The dataset includes variables such as item name, order quantity, price per item, and total order value.
 
 Objectives:
@@ -16,7 +16,7 @@ The analysis will provide actionable insights for menu optimization, pricing str
 ![](https://github.com/slepankovamarta/the-git-rocks/blob/main/Images/car%20github.png)
 
 
-# Predicting City Population Based on Area [Population](https://github.com/slepankovamarta/the-git-rocks/blob/main/Population%20excercise%20GitHub.ipynb)
+# [Predicting City Population Based on Area](https://github.com/slepankovamarta/the-git-rocks/blob/main/Population%20excercise%20GitHub.ipynb)
 This project focuses on creating a model to predict the population of a city based on its area. The input dataset contains information about cities, specifically their area (in km²) and population.
 
 Steps:
@@ -41,7 +41,7 @@ Analyze discrepancies between actual and predicted values.
 ![](https://github.com/slepankovamarta/the-git-rocks/blob/main/Images/chipotle.png)
 
 
-# Classifying Car Dealerships with K-Nearest Neighbors (KNN) [KNN](https://github.com/slepankovamarta/the-git-rocks/blob/main/CarStore.ipynb)
+# [Classifying Car Dealerships with KNN](https://github.com/slepankovamarta/the-git-rocks/blob/main/CarStore.ipynb)
 
 This exercise focuses on using the K-Nearest Neighbors (KNN) algorithm to classify two car dealerships based on their sales data. The dataset includes features such as the number of cars sold, customer demographics, and the dealership's location.
 
