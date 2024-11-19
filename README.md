@@ -1,5 +1,5 @@
 # Marta_excercises
-examples of the study content
+
 
 # Exploratory Data Analysis (EDA) on Chipotle Restaurant Orders
 This project involves conducting Exploratory Data Analysis (EDA) on a dataset containing Chipotle restaurant order information. The dataset includes variables such as item name, order quantity, price per item, and total order value.
@@ -35,7 +35,34 @@ Model Evaluation:
 
 Assess model accuracy using metrics like R², RMSE, or MAE.
 Analyze discrepancies between actual and predicted values.
-Results Interpretation:
+
+
+
+# Classifying Car Dealerships with K-Nearest Neighbors (KNN)
+
+This exercise focuses on using the K-Nearest Neighbors (KNN) algorithm to classify two car dealerships based on their sales data. The dataset includes features such as the number of cars sold, customer demographics, and the dealership's location.
+
+#### Objectives:
+1. **Understand Classification with KNN**:
+   - Learn how the KNN algorithm groups similar data points to classify dealerships.
+
+2. **Data Analysis**:
+   - Explore and preprocess the dataset, including feature scaling and handling missing values.
+
+3. **Model Implementation**:
+   - Train a KNN model to distinguish between the two dealerships.
+   - Use features such as sales numbers, customer age groups, and location for classification.
+
+4. **Evaluation**:
+   - Assess the model’s accuracy using cross-validation and metrics like precision, recall, and F1-score.
+   - Visualize decision boundaries to understand the separation of classes.
+
+5. **Insights**:
+   - Analyze what factors contribute most to the classification of dealerships.
+   - Explore how the number of neighbors (k) impacts the model's performance.
+
+
+
 
 Evaluate how well the model describes the dependency between city area and population.
 Suggest possible improvements if the predictions are not sufficiently accurate.
