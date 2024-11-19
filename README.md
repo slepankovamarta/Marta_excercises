@@ -1,7 +1,7 @@
-# Marta_excercises
+# Marta_practise
 
 
-# [EDA n Chipotle Restaurant Orders](https://github.com/slepankovamarta/the-git-rocks/blob/main/EDA%20Intro.ipynb)
+# [EDA in Chipotle Restaurant Orders](https://github.com/slepankovamarta/the-git-rocks/blob/main/EDA%20Intro.ipynb)
 This project involves conducting Exploratory Data Analysis (EDA) on a dataset containing Chipotle restaurant order information. The dataset includes variables such as item name, order quantity, price per item, and total order value.
 
 Objectives:
